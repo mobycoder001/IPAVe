@@ -1,0 +1,31 @@
+
+mark:
+create what a directory a file lives in does file
+update README links
+update the syntax of the data file
+1. env setup code for Vyatta
+1. define data file IP,subnetmask,1/0 used or free,timestamp
+1. use data file for today:
+
+
+csv -> pandas data frame
+
+
+
+
+Rusty:
+1. count the subnets (number)
+1. how many in use (number)
+1. what subnets are in use / 10.128.0.0/22 in use
+1. how many remaining at /24 size count the subnets from a /16 , 65535 (number) # convert to # of /24s 65535 - # = answser
+  1. notes: 1 /22 = 4 /24, 1 /16 = 65535 /24s
+
+
+update README in Wi2018 checkout to point to new IPAVe
+
+
+
+### next
+1. calc over time / predict
+
+
