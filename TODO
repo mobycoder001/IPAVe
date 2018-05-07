@@ -25,9 +25,9 @@ update README in Wi2018 checkout to point to new IPAVe
 
 Alex:
 
-1. SQLite interface
-1.
-1.
+1. Can we get the data/csv file into a database?
+1. SQLite interface / suggest a database
+1. pull data into a data structure, output to the screen
 
 ### next
 1. calc over time / predict
