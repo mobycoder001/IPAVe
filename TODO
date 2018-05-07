@@ -6,11 +6,11 @@ update the syntax of the data file
 1. env setup code for Vyatta
 1. define data file IP,subnetmask,1/0 used or free,timestamp
 1. use data file for today:
+1. look at flask / see if we can render pages
+1. look into pulling AWS and VyOS data collection
 
 
 csv -> pandas data frame
-
-
 
 
 Rusty:
@@ -23,11 +23,22 @@ Rusty:
 
 update README in Wi2018 checkout to point to new IPAVe
 
+
 Alex:
 
-1. Can we get the data/csv file into a database?
+1. Can we get the data/csv file into a database? Yes.
 1. SQLite interface / suggest a database
 1. pull data into a data structure, output to the screen
+1. push data into a data structure, output to the screen
+  1. <XML> ?? SQL would be a good choice for server // SQLite
+  1. should we do hosted, non-hosted, 
+  1. Wednesday meeting
+
+
+Manny:
+1. test and help setup repo
+1. look into pytest and how we can use pytest for testing
+
 
 ### next
 1. calc over time / predict
