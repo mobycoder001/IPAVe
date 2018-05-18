@@ -60,6 +60,7 @@ def get_subnets_only():
 print('testing')
 
 if __name__ == '__main__':
+    enumerate_vpc_subnets()
     get_subnets_only()
 
     print('[*] function checking: ')
