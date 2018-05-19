@@ -13,7 +13,10 @@ IP_Address,Subnet_mask_in_CIDR_notation,0=False-1=True_is_this_IP_subnet_in_use,
 1. 0=False-1=True_is_this_IP_subnet_in_use - boolean nominal
 1. timestamp_in_unix_time - timestamp ordinal
 1. datasource, a=aws,z=router
+1. aws region
 1. aws availability zone
+1. aws subnet id
+1. aws vpc id
 
 ### Available data AWS
 1. IP Address
