@@ -45,3 +45,8 @@ IP_Address,Subnet_mask_in_CIDR_notation,0=False-1=True_is_this_IP_subnet_in_use,
 
 ## Database input
 TBD
+
+1. pass data to db modules as a list of list.
+1. each line in the list is a field from the CSV
+
+
