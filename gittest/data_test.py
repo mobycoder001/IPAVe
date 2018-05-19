@@ -129,3 +129,10 @@ df3
 df4 = df3.reset_index()
 df4.set_index(['unix_timestamp', 'IP_Address', 'In_use?']).unstack(level=-1)
 
+def return_output(IP_count=IP_count,pct_used=pct_used):
+	return(IP_count,pct_used)
+
+for i in return_output():
+    print(i)
+
+
