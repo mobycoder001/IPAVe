@@ -9,10 +9,11 @@ IP_Address,Subnet_mask_in_CIDR_notation,0=False-1=True_is_this_IP_subnet_in_use,
 
 ### Fields Descriptions
 1. IP_Address - string nominal
-2. Subnet_mask_in_CIDR_notation - integers nominal
-3. 0=False-1=True_is_this_IP_subnet_in_use - boolean nominal
-4. timestamp_in_unix_time - timestamp ordinal
-5. 
+1. Subnet_mask_in_CIDR_notation - integers nominal
+1. 0=False-1=True_is_this_IP_subnet_in_use - boolean nominal
+1. timestamp_in_unix_time - timestamp ordinal
+1. datasource, a=aws,z=router
+1. aws availability zone
 
 ### Available data AWS
 1. IP Address
