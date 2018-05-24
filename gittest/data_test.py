@@ -3,6 +3,7 @@
 
 ### notes on exporting the notebook images:
 # https://stackoverflow.com/questions/32538758/nameerror-name-get-ipython-is-not-defined
+# https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter/issues/31
 
 # coding: utf-8
 
