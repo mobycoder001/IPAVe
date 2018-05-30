@@ -53,11 +53,11 @@ def get_subnets_only():
 
         #my_cidrs_csv=[0,]
 
+# Add formatting for data discovery output.  Select specific IDs useful for database population.
+for i in client.describe_subnets()['Subnets']:
+    print('[*] SubnetID: {} CidrBlock: {}'.format(i['SubnetId'],i['CidrBlock']))
 
 
-
-##import pdb; pdb.set_trace()
-print('testing')
 
 if __name__ == '__main__':
     enumerate_vpc_subnets()
