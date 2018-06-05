@@ -33,7 +33,7 @@ class csv_dump():
         return self.csv_list
 
 
-    def write_csv(self, csv_list, filename='workfile.csv'):
+    def write_csv(self, csv_list, filename='../data/new_data.csv'):
         with open(filename, '+w') as fh:
             for i in self.csv_list:
                 fh.write(i)
