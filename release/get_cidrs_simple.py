@@ -41,7 +41,7 @@ class awsGetCidrSimple():
         """
         for i in client.describe_subnets()['Subnets']:
             self.logger.info('[*] [added] CidrBlock: {} from SubnetID: {} '.format(i['CidrBlock'],i['SubnetId']))
-            self.data_list.append({ "ip_addr" : i['CidrBlock'].split('/')[0], "cidr_mask" : i['CidrBlock'].split('/')[1], "in_use" : "1", "unixtime" : "234567", })
+            self.data_list.append({ "ip_addr" : i['CidrBlock'].split('/')[0], "cidr_mask" : i['CidrBlock'].split('/')[1], "in_use" : "1", "unixtime" : current_time, })
 
         return self.data_list
 
