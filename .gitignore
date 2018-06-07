@@ -1,2 +1,4 @@
 # Jupyter NB Checkpoints
+*.gz
+venv/
 .ipynb_checkpoints/
