@@ -1,4 +1,5 @@
 # Jupyter NB Checkpoints
+*__pycache__/
 *.gz
 venv/
 .ipynb_checkpoints/
