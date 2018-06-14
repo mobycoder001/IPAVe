@@ -1,0 +1,14 @@
+2018-06-06 18:54:37,989 - get_cidrs_simple - INFO - Starting aws collect log.
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 172.31.32.0/20 from SubnetID: subnet-db00ba90 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 172.31.16.0/20 from SubnetID: subnet-345bc34d 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 10.128.16.0/22 from SubnetID: subnet-0657268ebbf2cd60d 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 10.128.4.0/22 from SubnetID: subnet-09184dbb744eb5ff3 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 10.128.0.0/22 from SubnetID: subnet-02e4a1280ea24882d 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 10.128.131.0/24 from SubnetID: subnet-0a352959271ea3b64 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 10.128.132.0/22 from SubnetID: subnet-0b0d6c1ad5beda7c9 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 10.128.129.0/24 from SubnetID: subnet-04a0f0de964fa1628 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 10.128.130.0/24 from SubnetID: subnet-086f83601e927db52 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 10.128.128.0/24 from SubnetID: subnet-0c1abbd965c544d90 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 172.31.0.0/20 from SubnetID: subnet-32fc8c68 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 10.128.12.0/22 from SubnetID: subnet-033b7027ffdfb3188 
+2018-06-06 18:54:40,307 - get_cidrs_simple - INFO - [*] [added] CidrBlock: 10.128.8.0/22 from SubnetID: subnet-0327db40db45f03bc 
